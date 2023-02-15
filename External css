@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href=""/>
+    </head>
+  
+    <body>
+        <div class = "main">
+            <div class ="name">mohith</div>
+            <div id ="my">
+               this is my name
+            </div>
+        </div>
+    </body>
+</html>
